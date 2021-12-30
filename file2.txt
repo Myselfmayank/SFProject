@@ -2,3 +2,4 @@
 1.'To fix the bug1'
 2.WI4 by teammate
 3.change for rebase on CR2
+4. Change on remote master by team mate for CR1
