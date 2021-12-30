@@ -5,8 +5,10 @@ Change added for login feature.
 
 WI3
 
-Change : for bug1
+Change 1 : for bug1
 
-Change : for statsh test WI5 in progrss
+Change 2 : for statsh test WI5 in progrss
 
-Change : For WI6 on local master to test normal push
+Change 3 : For WI6 on local master to test normal push
+
+Change 4 : By team mate on remote master for WI6
